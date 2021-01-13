@@ -13,6 +13,7 @@ Deployment can be done on any server or local Environment
 ## How to Contribute
 
 You can follow my Instagram Page
+You can fork this repository
 
 ## Copyright
 
