@@ -13,3 +13,7 @@ Deployment can be done on any server or local Environment
 ## How to Contribute
 
 You can follow my Instagram Page
+
+## Copyright
+
+2014 Git.Training
